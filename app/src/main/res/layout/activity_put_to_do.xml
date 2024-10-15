@@ -1,0 +1,188 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#FFFFFFFF"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="1000dp">
+    <ScrollView
+        android:id="@+id/r8lm7xmzwvzf"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFFFFFFF"
+        android:paddingTop="0dp"
+        android:paddingBottom="133dp"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/rm2mkpo3kv3l"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:layout_marginHorizontal="16dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/rk8im6fn4bes"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="35dp"
+                    android:layout_marginEnd="95dp"
+                    android:onClick="back"
+                    app:srcCompat="@drawable/back" />
+
+                <ImageView
+                    android:id="@+id/r2xrgiunhkk6"
+                    android:layout_width="114dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+
+                    app:srcCompat="@drawable/logo" />
+            </LinearLayout>
+            <TextView
+                android:id="@+id/rii3hqnfe58"
+                android:textColor="#764248"
+                android:textSize="15sp"
+                android:layout_marginBottom="13dp"
+                android:layout_marginStart="29dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Task Title"
+                />
+            <LinearLayout
+                android:id="@+id/rbxjntbihn9n"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/sff764248sw1cr8bffffffff"
+                android:paddingVertical="14dp"
+                android:paddingHorizontal="17dp"
+                android:layout_marginBottom="22dp"
+                android:layout_marginHorizontal="26dp"
+                android:orientation="vertical">
+                <EditText
+                    android:id="@+id/rpymzp2apnzn"
+                    android:textColor="#828282"
+                    android:textSize="14sp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:hint="Enter Title"
+                    android:backgroundTint="@android:color/transparent"
+                    />
+            </LinearLayout>
+            <TextView
+                android:id="@+id/r5n6mqu6403j"
+                android:textColor="#764248"
+                android:textSize="15sp"
+                android:layout_marginBottom="13dp"
+                android:layout_marginStart="30dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Description"
+                />
+            <LinearLayout
+                android:id="@+id/rdlgdvu888o7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/sff764248sw1cr8bffffffff"
+                android:paddingVertical="14dp"
+                android:paddingHorizontal="17dp"
+                android:layout_marginBottom="22dp"
+                android:layout_marginHorizontal="26dp"
+                android:orientation="vertical">
+                <EditText
+                    android:id="@+id/ry47vhg3sia"
+                    android:textColor="#828282"
+                    android:textSize="14sp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:hint="Enter Description"
+                    android:backgroundTint="@android:color/transparent"
+                    />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/ri1lw0s4qscb"
+                android:textColor="#764248"
+                android:textSize="15sp"
+                android:layout_marginBottom="13dp"
+                android:layout_marginStart="32dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Category" />
+
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/arr"
+                android:paddingVertical="25dp"
+                android:paddingHorizontal="17dp"
+                android:layout_marginBottom="23dp"
+
+                android:layout_marginHorizontal="25dp"
+                android:spinnerMode="dropdown"
+                tools:ignore="RtlSymmetry" />
+
+
+            <TextView
+                android:id="@+id/rd78b1kst4aa"
+                android:textColor="#764248"
+                android:textSize="15sp"
+                android:layout_marginBottom="12dp"
+                android:layout_marginStart="32dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Due Date"
+                />
+            <LinearLayout
+                android:id="@+id/rm775ogcbrck"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:background="@drawable/sff764248sw1cr8bffffffff"
+                android:paddingVertical="20dp"
+                android:paddingHorizontal="16dp"
+                android:layout_marginBottom="55dp"
+                android:layout_marginHorizontal="26dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/dat"
+                    android:textColor="#828282"
+                    android:textSize="14sp"
+                    android:layout_marginEnd="4dp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:text="Select Date"
+                    />
+
+                <ImageView
+                    android:id="@+id/r33zbirw09x7"
+                    android:layout_width="30dp"
+                    android:layout_height="40dp"
+                    android:onClick="selectdate"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/calendar_icon" />
+            </LinearLayout>
+            <Button
+                android:id="@+id/ruq2sym8mww"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:backgroundTint="@color/mainColor"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:paddingVertical="14dp"
+                android:layout_marginHorizontal="26dp"
+                app:cornerRadius="10dp"
+              android:onClick="addNewTask"
+                    android:text="Add New Task" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
