@@ -1,3 +1,4 @@
 # Flutter
--Task Managing App
--Messy ahh code
+- Mobile Task Managing App.
+- Java Android Studio.
+- Messy ahh code.
