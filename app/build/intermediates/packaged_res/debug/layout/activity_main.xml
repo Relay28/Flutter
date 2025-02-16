@@ -1,0 +1,63 @@
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#FFFFFFFF"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:id="@+id/rjp90cibowkb"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFE3C5BB"
+        android:paddingTop="150dp"
+        android:paddingBottom="100dp"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/r5kvrydqfobu"
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_marginHorizontal="111dp"
+                android:layout_marginBottom="31dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/logo"
+                tools:srcCompat="@drawable/logo" />
+
+            <Button
+                android:id="@+id/login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="24dp"
+                android:layout_marginBottom="31dp"
+                android:backgroundTint="#FFFFFFFF"
+                android:gravity="center_horizontal"
+                android:paddingVertical="14dp"
+                android:text="Log - in"
+                android:textColor="#764248"
+                android:textSize="16sp"
+                app:cornerRadius="10dp" />
+
+            <Button
+                android:id="@+id/register"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="24dp"
+                android:backgroundTint="#FFFFFFFF"
+                android:text="Create Account"
+                android:textColor="#764248"
+                android:textSize="16sp"
+                android:paddingVertical="14dp"
+                app:cornerRadius="10dp"
+                />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
