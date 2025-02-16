@@ -1,0 +1,112 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFFFF"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/rd7q5kyoz23c"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFFFF"
+        android:paddingTop="70dp"
+        android:paddingBottom="60dp"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/rfad95a85ioi"
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_marginHorizontal="111dp"
+                android:layout_marginBottom="30dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/rho2n63n0r5q"
+                android:textColor="#764248"
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+               android:layout_marginBottom="30dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Log into Flutter" />
+
+            <LinearLayout
+                android:id="@+id/r1rjdxvahp04"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="24dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/sff764248sw1cr8bffffffff"
+                android:orientation="vertical"
+                android:paddingVertical="15dp"
+                android:paddingHorizontal="18dp">
+
+                <EditText
+                    android:id="@+id/logUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#828282"
+                    android:textSize="14sp"
+                    android:hint="Username"
+                    android:backgroundTint="@android:color/transparent" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/r7g0xgrj378b"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="24dp"
+                android:layout_marginBottom="29dp"
+                android:background="@drawable/sff764248sw1cr8bffffffff"
+                android:orientation="vertical"
+                android:paddingVertical="15dp"
+                android:paddingHorizontal="18dp">
+
+                <EditText
+                    android:id="@+id/logPass"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Password"
+                    android:inputType="textPassword"
+                    android:textColor="#828282"
+                    android:textSize="14sp"
+                    android:backgroundTint="@android:color/transparent" />
+            </LinearLayout>
+
+
+            <Button
+                android:id="@+id/btnLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="24dp"
+                android:layout_marginBottom="60dp"
+                android:backgroundTint="#FFE3C5BB"
+                android:gravity="center_horizontal"
+                android:paddingVertical="18dp"
+                android:text="Log in"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                app:cornerRadius="10dp" />
+
+
+            <TextView
+                android:id="@+id/r51zn93tifgh"
+                android:textSize="12sp"
+                android:layout_marginHorizontal="32dp"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:text="By clicking continue, you agree to our Terms of Service \nand Privacy Policy" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

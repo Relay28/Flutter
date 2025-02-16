@@ -1,0 +1,123 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFFFF"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ToDoList">
+    <LinearLayout
+        android:id="@+id/rxnx616o07j"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFFFFFFF"
+        android:paddingTop="10dp"
+        android:paddingBottom="99dp"
+        android:paddingHorizontal="40dp"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/rc0qkzyysgn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/rz348tekki1p"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginEnd="70dp"
+                    android:onClick="back"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/back"
+                    tools:srcCompat="@drawable/back" />
+
+
+
+                <ImageView
+                    android:id="@+id/rdfajx905g65"
+                    android:layout_width="114dp"
+                    android:layout_height="100dp"
+                    android:layout_marginEnd="71dp"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/logo" />
+                <LinearLayout
+                    android:id="@+id/rs9i9x2ltlq7"
+                    android:layout_width="18dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="21dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/r4a3zzfn5sis"
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="@drawable/sff764248sw2"
+                        android:layout_marginHorizontal="7dp"
+                        android:orientation="vertical">
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/rkj0pzh856c"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="32dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/rbj1lyollupd"
+                    android:textColor="#764248"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginEnd="4dp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:text="To-do List"
+                    />
+
+                <ImageView
+                    android:id="@+id/rr0y6n8ge1jr"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:scaleType="fitXY"
+
+                    android:onClick="addToDo"
+                    app:srcCompat="@drawable/plus" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/rm0i1tfmgb2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="23dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/rgdet0xoqcdc"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#FF764248"
+                    android:layout_marginHorizontal="3dp"
+                    android:orientation="vertical">
+                </LinearLayout>
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/list_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/mainColor"
+                android:divider="@null"
+                android:dividerHeight="15dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
