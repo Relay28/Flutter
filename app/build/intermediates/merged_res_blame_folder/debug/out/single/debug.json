@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_hehe.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\hehe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_cr10bffffffff.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\cr10bffffffff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.flutter11.app-merged_res-33:/layout_activity_profile_edit.xml.flat",
+        "source": "com.example.flutter11.app-main-35:/layout/activity_profile_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_personal.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\personal.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_put_to_do.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_put_to_do.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_subtract__compressify_io_.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\subtract__compressify_io_.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_to_do.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\to_do.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_chevron_down__compressify_io_.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\chevron_down__compressify_io_.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_todo_item.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\todo_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_sff764248sw2.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\sff764248sw2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_note.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_back.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_to_do_list.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_to_do_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_statistics.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_profile_image__compressify_io_.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\profile_image__compressify_io_.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_calendar_icon.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_cr8bffe3c5bb.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\cr8bffe3c5bb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_cr5bffe3c5bb.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\cr5bffe3c5bb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_profile_edit.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_profile_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_journal_buttons.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\journal_buttons.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_work.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\work.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_chevron_down.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\chevron_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_cr8bffffffff.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\cr8bffffffff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_stats.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\stats.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_profile1.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_chores.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\chores.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_neutral__compressify_io_.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\neutral__compressify_io_.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable__icon__plus_circle_bold___compressify_io_.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\_icon__plus_circle_bold___compressify_io_.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_smiling__compressify_io_.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\smiling__compressify_io_.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_arr.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\arr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_bellto_do.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\bellto_do.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_note_cell.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_note_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_sffffffffsw1cr8bffffffff.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\sffffffffsw1cr8bffffffff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_sff764248sw1cr8bffffffff.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\sff764248sw1cr8bffffffff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_sad__compressify_io_.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\sad__compressify_io_.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_school.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\school.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_angry__compressify_io_.png.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\angry__compressify_io_.png"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\layout_activity_journal.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\layout\\activity_journal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\drawable_txtf.xml.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\drawable\\txtf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Rae Addison Duque\\.gradle\\daemon\\8.2\\com.example.flutter11.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    }
+]

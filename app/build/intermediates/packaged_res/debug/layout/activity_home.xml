@@ -1,0 +1,339 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#FFFFFFFF"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.flutter11.Home">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/r4nfzxt1l653"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="37dp"
+            android:layout_marginBottom="12dp"
+            android:orientation="horizontal">
+
+            <com.example.flutter11.RoundedImageView
+                android:id="@+id/profile"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="30dp"
+                android:scaleType="fitXY"
+                android:onClick="openProfile"
+                app:cornerRadius="10dp"
+                app:srcCompat="@drawable/profile1" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/rfpa7xph5wkp"
+                android:layout_width="134dp"
+                android:layout_height="120dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/logo" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:id="@+id/rtrcoejlxus9"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:orientation="vertical">
+
+
+
+                <LinearLayout
+                    android:id="@+id/rp3bqzvf2lbb"
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginHorizontal="7dp"
+                    android:background="@drawable/sff764248sw2"
+                    android:orientation="vertical" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/Journal"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:layout_marginHorizontal="26dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/cr5bffe3c5bb"
+            android:elevation="4dp"
+            android:onClick="openJournal"
+            android:orientation="vertical"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="19dp">
+
+            <LinearLayout
+                android:id="@+id/rkg5bjym1zb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="11dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/r8ttoolqevag"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="4dp"
+                    android:layout_weight="1"
+                    android:text="Journal"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:id="@+id/ru17lq6spbx"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:onClick="addNote"
+
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/plus" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/noteList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:divider="@null"
+                android:dividerHeight="13dp"
+                android:paddingTop="8dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/rssjv3k4asp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="24dp"
+            android:layout_marginBottom="20dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/riy2ryxfzca"
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cr5bffe3c5bb"
+                android:elevation="4dp"
+                android:onClick="goToDo"
+                android:orientation="vertical"
+                android:paddingHorizontal="18dp"
+                android:paddingVertical="12dp">
+
+                <ImageView
+                    android:id="@+id/rc2x9ax2s2y9"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginBottom="9dp"
+                    android:scaleType="fitXY"
+                    android:onClick="goToDo"
+                    app:srcCompat="@drawable/to_do" />
+
+                <TextView
+                    android:id="@+id/r0fal0nq0wj4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="To-Do"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:id="@+id/rzh640b7355k"
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cr5bffe3c5bb"
+                android:elevation="4dp"
+                android:onClick="openCalendar"
+                android:orientation="vertical"
+                android:paddingVertical="14dp">
+
+                <ImageView
+                    android:id="@+id/r3xqw4uwayae"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginHorizontal="17dp"
+                    android:layout_marginBottom="7dp"
+                    android:scaleType="fitXY"
+                    android:onClick="openCalendar"
+                    app:srcCompat="@drawable/calendar_icon" />
+
+                <TextView
+                    android:id="@+id/r1v6n54y5tah"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:text="Calendar"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:id="@+id/ridrj439jcr"
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cr5bffe3c5bb"
+                android:elevation="4dp"
+                android:onClick="goStats"
+                android:orientation="vertical"
+                android:paddingHorizontal="18dp"
+                android:paddingVertical="12dp">
+
+                <ImageView
+                    android:id="@+id/rxicqy75tf1j"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginBottom="9dp"
+                    android:scaleType="fitXY"
+                    android:onClick="goStats"
+                    app:srcCompat="@drawable/stats" />
+
+                <TextView
+                    android:id="@+id/rm0ip9hevnim"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Stats"
+                    android:layout_gravity="center"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/rzftqtbzlcad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="27dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/cr5bffe3c5bb"
+            android:elevation="4dp"
+            android:orientation="vertical"
+            android:paddingHorizontal="11dp"
+            android:paddingTop="14dp"
+            android:paddingBottom="32dp">
+
+            <TextView
+                android:id="@+id/r4wfkr3jo8kh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="25dp"
+                android:text="Mood Tracker"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <LinearLayout
+                android:id="@+id/rs0xmxgoi4p"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/happy"
+                    android:layout_width="74dp"
+                    android:layout_height="62dp"
+                    android:layout_marginStart="10dp"
+                    android:onClick="addMoodHappy"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/smiling__compressify_io_" />
+
+                <ImageView
+                    android:id="@+id/neutral"
+                    android:layout_width="74dp"
+                    android:layout_height="62dp"
+                    android:onClick="addMoodNeutral"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/neutral__compressify_io_" />
+
+                <ImageView
+                    android:id="@+id/sad"
+                    android:layout_width="74dp"
+                    android:layout_height="62dp"
+                    android:onClick="addMoodSad"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/sad__compressify_io_" />
+
+                <ImageView
+                    android:id="@+id/angry"
+                    android:layout_width="74dp"
+                    android:layout_height="62dp"
+                    android:onClick="addMoodAngry"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/angry__compressify_io_" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/rg92fesbu47s"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFFFF"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingHorizontal="58dp"
+            android:paddingVertical="12dp">
+
+            <ImageView
+                android:id="@+id/rktz0v4d54l"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginEnd="0dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/subtract__compressify_io_" />
+
+            <LinearLayout
+                android:id="@+id/rccfvk3fzwha"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical" />
+
+            <ImageView
+                android:id="@+id/rlj5gugpp10p"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+
+                android:layout_marginEnd="70dp"
+                android:onClick="addNote"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/_icon__plus_circle_bold___compressify_io_" />
+
+            <com.example.flutter11.RoundedImageView
+                android:id="@+id/profTab"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:onClick="openProfile"
+                android:scaleType="fitXY"
+                app:cornerRadius="50dp"
+                app:srcCompat="@drawable/profile1" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

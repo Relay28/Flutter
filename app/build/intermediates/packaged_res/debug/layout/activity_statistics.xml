@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context="com.example.flutter11.Statistics">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/mainColor"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/profile"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="45dp"
+                android:layout_marginEnd="90dp"
+                android:onClick="ob"
+                android:scaleType="fitXY"
+
+                app:cornerRadius="10dp"
+
+                app:srcCompat="@drawable/back" />
+
+            <ImageView
+                android:id="@+id/rfpa7xph5wkp"
+                android:layout_width="134dp"
+                android:layout_height="120dp"
+                android:layout_marginEnd="60dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/logo" />
+
+        </LinearLayout>
+
+        <com.anychart.AnyChartView
+            android:id="@+id/anyChartView"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:layout_marginVertical="20sp"
+
+            />
+
+        <LinearLayout
+            android:id="@+id/rg92fesbu47s"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center_vertical"
+            android:backgroundTint="@color/mainColor"
+            android:background="#FFFFFFFF"
+            android:layout_marginTop="250dp"
+            android:paddingVertical="12dp"
+            android:paddingHorizontal="58dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/rktz0v4d54l"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:onClick="back"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/subtract__compressify_io_" />
+            <LinearLayout
+                android:id="@+id/rccfvk3fzwha"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/rlj5gugpp10p"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginEnd="101dp"
+                android:scaleType="fitXY"
+                android:onClick="addNote"
+                app:srcCompat="@drawable/_icon__plus_circle_bold___compressify_io_" />
+
+            <ImageView
+                android:id="@+id/profTab"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:onClick="openProfile"
+                android:scaleType="fitXY"
+                app:cornerRadius="50dp"
+
+                app:srcCompat="@drawable/profile1" />
+        </LinearLayout>
+    </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+

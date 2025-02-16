@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#E3C5BB</color>
+    <color name="mainColor">#FFE3C5BB</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Flutter1.1</string>
+    <style name="Base.Theme.Flutter11" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Flutter11" parent="Base.Theme.Flutter11"/>
+</resources>
